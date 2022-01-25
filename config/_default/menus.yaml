@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 6de26152-4bd8-f288-f26b-36d1572023fb
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: bf60161f-a614-ddc2-b359-59acdf14d2cb
+  name: Lectures and Labs
+  url: /pages/lectures-and-labs
+  weight: 20
+- identifier: 4d40d34c-91f7-6621-3408-733271e4b1c3
+  name: Datasets and Code
+  url: /pages/datasets-and-code
+  weight: 30
